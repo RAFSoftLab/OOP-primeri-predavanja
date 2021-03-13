@@ -55,7 +55,8 @@ public class UcitavanjeGrupaStudenata {
 				if(s.getBrojIndeksa()==brojIndeksa && s.getSmer().equals(smer) && s.getGodinaUpisa()==godina) {
 					System.out.println("student "+s.getIme()+" "+s.getPrezime()+" pripada grupi "+s.getGrupa().getOznakaGrupe());
 				}
-			}					
+			}		
+			sc.close();
 			
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
