@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="abstractclassdemo.Zaposleni" project="OOP-nedelja4" 
+    file="/OOP-nedelja4/src/abstractclassdemo/Zaposleni.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="82" width="98" x="247" y="97"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="abstractclassdemo.Nastavnik" project="OOP-nedelja4" 
+    file="/OOP-nedelja4/src/abstractclassdemo/Nastavnik.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="64" width="97" x="158" y="409"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="abstractclassdemo.Sluzbenik" project="OOP-nedelja4" 
+    file="/OOP-nedelja4/src/abstractclassdemo/Sluzbenik.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="64" width="117" x="381" y="406"/>    
+    <display autosize="true" stereotype="false" package="false" initial-value="false" signature="false" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <generalization id="4">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="5">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="false" package="false" initial-value="false" signature="false" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
