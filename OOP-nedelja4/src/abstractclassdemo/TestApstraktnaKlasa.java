@@ -7,6 +7,7 @@ public class TestApstraktnaKlasa {
 		
 		Nastavnik n = new Nastavnik("Marko", "Markovic");
 		Zaposleni z = new Nastavnik("Petar", "Petrovic");
+		((Zaposleni)n).ispisi();
 		System.out.println(n instanceof Nastavnik); // true
 		System.out.println(n instanceof Zaposleni); // true
 		System.out.println(z instanceof Nastavnik); // true
