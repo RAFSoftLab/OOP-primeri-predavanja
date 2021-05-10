@@ -1,0 +1,2 @@
+Linja 59: a  [class java.lang.ArrayIndexOutOfBoundsException]
+Linja 67: 1 2016 11o 14   [class java.lang.NumberFormatException]

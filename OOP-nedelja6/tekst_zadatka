@@ -1,0 +1,8 @@
+Zadatak 
+ 
+Napraviti model podataka (UML dijagram klasa) i napisati Java implementaciju za predstavljanje studentskih radova.  
+Studentski radovi mogu biti seminarski, diplomski i master radovi. Za svaki rad pamti se naslov, mentor rada i datum odbrane. Diplomski i master radovi imaju članove komisije za odbranu, a seminarski i diplomski radovi imaju ocenu, dok mater rad nema ocenu. Diplomske i master radove može raditi jedan student, a seminarski rad više studenata. Za studenta se čuva ime, prezime i broj indeksa (studenti se razlikuju po broju indeksa). Mentor i članovi komisije su profesori koje treba predstaviti kao stringove.  
+Napisati Java implementaciju za sledeće dve metode: 
+- metoda koja za prosleđenog profesora i listu radova ispisuje sve radove iz prosleđene liste na kojima je bio mentor, ispisuje se naslov rada, ime i prezime studenta (ili studenata) i vrsta rada (seminarski, diplomski ili master) 
+- metoda koja za prosleđenog studenta i listu radova ispisuje sve njegove radove iz posleđene liste, ispisuje se naslov, mentor, komisija, ocena (ako su predviđeni vrstom rada) i vrsta rada (seminarski, diplomski ili master) 
+Napomena: set/get metode kao i prazni konstruktori i konstruktori koji postavljaju vrednosti polja se podrazumevaju i ne moraju se pisati.  
