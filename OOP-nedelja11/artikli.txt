@@ -1,0 +1,12 @@
+Prodavnica Knez,Majica,M123,S-12,M-13,XL-20
+Prodavnica Usce,Majica,M123,S-6,M-18,XL-2
+Prodavnica Big,Majica,M123,S-1,M-13,XL-20
+Prodavnica Knez,Bermude,B34,S-12,M-13,XL-20
+Prodavnica Usce,Bermude,B34,S-6,M-18,XL-2
+Prodavnica Big,Bermude,B34,XS-12,S-1,M-13,XL-20
+Prodavnica Knez,Pantalone,P63,S-12,M-13,XL-20
+Prodavnica Usce,Pantalone,P63,XS-9,S-6,M-18,L-23,XL-2
+Prodavnica Big,Pantalone,P63,S-1,M-13,L-13,XL-1
+Prodavnica Knez,Pantalone,P65,S-12,M-13,XL-20
+Prodavnica Usce,Pantalone,P65,S-6,M-18,XL-2
+Prodavnica Big,Pantalone,P65,S-5,M-10,L-4,XL-15
