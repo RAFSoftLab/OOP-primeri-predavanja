@@ -1,0 +1,11 @@
+Napraviti model podataka u vidu UML dijagram klasa i napisati Java klase samo sa poljima 
+za predstavljanje podataka o atletskim trkama.
+Na trci učestvuju trkači ili trkačice i postoji i štafetna trka u kojoj učestvuju timovi. 
+Za svakog trkača se pamti ime, prezime, pol, država i datum rođenja. 
+Za trku se čuva datum održavanja, dužina staze i svi učesnici trke (pojedinačni trkači ili timovi). 
+Za svaku trku se pamti rezultat kao pozicija i vreme svakog učesnika na trci. 
+
+
+- dva resenja
+1. trkac/tim moze da trci samo jednu trku
+2. trkac/tim moze da trci vise trka
