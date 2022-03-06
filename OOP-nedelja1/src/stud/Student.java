@@ -3,7 +3,7 @@ package stud;
 public class Student {
 	
 	
-	// atributi (polja) klase student 
+	// atributi (polja) klase Student 
 	private String ime;
 	private String prezime;
 	private int brojIndeksa;

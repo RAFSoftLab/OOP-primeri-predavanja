@@ -7,7 +7,7 @@ public class VidljivostDemo {
 	int defaultVidljivostPolje;
 	protected int protectedVidljivostPolje;
 	
-	private int privatnaMetoda() {
+	private int privateMetoda() {
 		return privatePolje;
 	}
 	
@@ -15,7 +15,7 @@ public class VidljivostDemo {
 		return publicPolje;
 	}
 	
-	int defaultVidljivostMeotda() {
+	int defaultVidljivostMetoda() {
 		return defaultVidljivostPolje;
 	}
 	

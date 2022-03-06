@@ -6,7 +6,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		// tri nacina kreiranja studenta, pozivom tri razlicita kontruktora
+		// tri nacina kreiranja studenta, pozivom tri razlicita konstruktora
 		
 		Student s1 = new Student();
 		

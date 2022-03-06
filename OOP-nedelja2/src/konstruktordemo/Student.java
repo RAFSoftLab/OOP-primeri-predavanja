@@ -12,10 +12,10 @@ public class Student {
 	private int godinaUpisa;
 	private int godinaStudija;	
 	
-	// kontruktori klase - moze ih biti vise sa različitim tiovima argumenata
+	// konstruktori klase - moze ih biti vise sa različitim tipovima argumenata
 	
 	public Student(){	
-		this(-1,"nepoznat",-1);  // poziv drugog kontruktora sa ulaznim argumentima tipa (int, String, int)
+		this(-1,"nepoznat",-1);  // poziv drugog konstruktora sa ulaznim argumentima tipa (int, String, int)
 	}
 	
 	
