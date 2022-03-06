@@ -3,7 +3,7 @@ package preklapanjemetoda;
 public class Suma {
 	
 	/*
-	 * primer preklapanja metoda - eng. method overrloading
+	 * primer preklapanja metoda - eng. method overloading
 	 */
 	
 	public int saberi(int sab1, int sab2) {

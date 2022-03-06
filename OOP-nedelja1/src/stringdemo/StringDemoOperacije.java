@@ -10,7 +10,7 @@ public class StringDemoOperacije {
 		
 		System.out.println(s5.replaceAll("a", "mmmmm"));  // ispisujemo rezultat operacijem ali s5 ostaje isto
 		System.out.println(s5);   // s5 je aaaabbb
-		System.out.println(s5.equalsIgnoreCase("aaaaBB"));	// poredjenje nezavisno od velicine slova
+		System.out.println(s5.equalsIgnoreCase("aaaaBBB"));	// poredjenje nezavisno od velicine slova
 		
 		
 		// split demo
